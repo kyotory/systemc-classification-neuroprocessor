@@ -1,0 +1,3 @@
+/home/sbe/Projects/ОВС/lab3/neuro_processor_systemc/build/CMakeFiles/neuro_accelerator.dir
+/home/sbe/Projects/ОВС/lab3/neuro_processor_systemc/build/CMakeFiles/edit_cache.dir
+/home/sbe/Projects/ОВС/lab3/neuro_processor_systemc/build/CMakeFiles/rebuild_cache.dir
